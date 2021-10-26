@@ -1,0 +1,23 @@
+package selfProgramming;
+
+public class SquareComputation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double side;
+		double area;
+		double perimeter;
+		side = 15;
+		
+		area = side*side;
+		System.out.print(" The area of square is ");
+		System.out.println(area);
+		
+		perimeter = 4*side;
+		System.out.print(" The perimeter of square is ");
+		System.out.print(perimeter);
+		
+
+	}
+
+}
