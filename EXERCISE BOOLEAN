@@ -1,0 +1,18 @@
+package selfProgramming;
+
+public class Boolean {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean isChickenTasty = true;
+		boolean isFishTasty = false;
+		
+		System.out.print("Is Chicken tasty = ");
+		System.out.println(isChickenTasty);
+		
+		System.out.print("Is Fish tasty = ");
+		System.out.println(isFishTasty);
+
+	}
+
+}
